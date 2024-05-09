@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "I Phone",
-    "price": 80000,
-    "image": "https://pngimg.com/uploads/iphone_13/iphone_13_PNG27.png"
+    "name": "Pizza",
+    "price": 150,
+    "image": "https://www.onestalove.in/wp-content/uploads/2021/08/Home-Banner-Pizza.png"
   },
   {
     "id": 2,
